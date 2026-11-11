@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Preserve the exact downloaded upstream QR renderer and the supplied image.
+qrcode.js -text
+*.png binary
